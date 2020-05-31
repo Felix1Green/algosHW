@@ -1,0 +1,9 @@
+/home/felix/CLionProjects/park/algoscpp/3_module/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/felix/CLionProjects/park/algoscpp/3_module/cmake-build-debug/CMakeFiles/rk2.dir
+/home/felix/CLionProjects/park/algoscpp/3_module/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/felix/CLionProjects/park/algoscpp/3_module/cmake-build-debug/CMakeFiles/4_1_1.dir
+/home/felix/CLionProjects/park/algoscpp/3_module/cmake-build-debug/CMakeFiles/4_2.dir
+/home/felix/CLionProjects/park/algoscpp/3_module/cmake-build-debug/CMakeFiles/2.dir
+/home/felix/CLionProjects/park/algoscpp/3_module/cmake-build-debug/CMakeFiles/4_1.dir
+/home/felix/CLionProjects/park/algoscpp/3_module/cmake-build-debug/CMakeFiles/3.dir
+/home/felix/CLionProjects/park/algoscpp/3_module/cmake-build-debug/CMakeFiles/4.dir

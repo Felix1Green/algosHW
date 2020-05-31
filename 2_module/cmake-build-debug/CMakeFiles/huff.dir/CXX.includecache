@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/felix/CLionProjects/park/algoscpp/2_module/huffman.cpp
+iostream
+-
+queue
+-
+cstring
+-
+vector
+-
+stack
+-
+

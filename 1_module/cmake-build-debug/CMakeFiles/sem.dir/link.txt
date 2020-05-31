@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/sem.dir/sem2.cpp.o  -o sem 

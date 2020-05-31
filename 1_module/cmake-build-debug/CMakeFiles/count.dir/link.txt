@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/count.dir/count_sort.cpp.o  -o count 

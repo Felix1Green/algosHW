@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/algoscpp.dir/1_3.cpp.o CMakeFiles/algoscpp.dir/2_4.cpp.o  -o algoscpp 

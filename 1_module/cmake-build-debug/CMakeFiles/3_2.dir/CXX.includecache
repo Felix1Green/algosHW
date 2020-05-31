@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/felix/CLionProjects/park/algoscpp/3_2.cpp
+iostream
+-
+vector
+-
+cstdio
+-
+cstring
+-
+string
+-
+cassert
+-
+

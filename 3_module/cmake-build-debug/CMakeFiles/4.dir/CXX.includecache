@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/felix/CLionProjects/park/algoscpp/3_module/4.cpp
+array
+-
+cassert
+-
+iostream
+-
+string
+-
+queue
+-
+unordered_map
+-
+cstring
+-
+algorithm
+-
+

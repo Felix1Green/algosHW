@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/felix/CLionProjects/park/algoscpp/3_module/1/IGraph.h
+vector
+-
+
+/home/felix/CLionProjects/park/algoscpp/3_module/1/MatrixGraph.h
+IGraph.h
+/home/felix/CLionProjects/park/algoscpp/3_module/1/IGraph.h
+
+/home/felix/CLionProjects/park/algoscpp/3_module/1/main.cpp
+iostream
+-
+MatrixGraph.h
+/home/felix/CLionProjects/park/algoscpp/3_module/1/MatrixGraph.h
+queue
+-
+

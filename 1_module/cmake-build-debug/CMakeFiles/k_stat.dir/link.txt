@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/k_stat.dir/K_statistics.cpp.o  -o k_stat 

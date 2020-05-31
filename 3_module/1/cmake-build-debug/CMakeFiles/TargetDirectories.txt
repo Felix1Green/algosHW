@@ -1,0 +1,3 @@
+/home/felix/CLionProjects/park/algoscpp/3_module/1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/felix/CLionProjects/park/algoscpp/3_module/1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/felix/CLionProjects/park/algoscpp/3_module/1/cmake-build-debug/CMakeFiles/main.dir
